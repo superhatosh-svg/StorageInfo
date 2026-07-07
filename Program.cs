@@ -49,7 +49,7 @@ namespace GeminiBirge
                         if (Log.ContainsKey(nameofb))
                         {
                             Log[nameofb] += countofb;
-                            PriceLog[nameofb] = countofb;
+                            PriceLog[priceofb] = countofb;
                         }
                         else
                         {
